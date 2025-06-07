@@ -1,0 +1,29 @@
+# === Python bytecode and cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === PyInstaller build folders ===
+build/
+dist/
+*.spec
+
+# === Logs and reports ===
+*.log
+*.toc
+*.zip
+*.txt
+*.html
+*.pkg
+
+# === VS Code settings (optional) ===
+.vscode/
+
+# === Allow only specific files ===
+!.py
+!.exe
+!requirements.txt
+!.gitignore
+!ServiceLauncher.exe
+
