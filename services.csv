@@ -1,0 +1,9 @@
+name,path,runnable,port
+MetaDataService,C:\Users\PakinPaulRaj\Desktop\Forvis Mazars\azure\backend-forvis\src\MetaDataService\MetaDataService.API,True,5080
+IdentityService,C:\Users\PakinPaulRaj\Desktop\Forvis Mazars\azure\backend-forvis\src\IdentityService\IdentityService.API,True,5171
+ClientService,C:\Users\PakinPaulRaj\Desktop\Forvis Mazars\azure\backend-forvis\src\ClientService\ClientService.API,True,5259
+BFFService,C:\Users\PakinPaulRaj\Desktop\Forvis Mazars\azure\backend-forvis\src\BFFService\BFFService.API,True,5258
+APIGateway,C:\Users\PakinPaulRaj\Desktop\Forvis Mazars\azure\backend-forvis\src\APIGateway\ForvisMazars.APIGateway,True,5006
+Angular Frontend,C:\Users\PakinPaulRaj\Desktop\Forvis Mazars\azure\frontend-forvis,True,4200
+Backend Root Build Only,C:\Users\PakinPaulRaj\Desktop\Forvis Mazars\azure\backend-forvis,False,
+

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MetaDataService",
+    "path": "C:\\Users\\PakinPaulRaj\\Desktop\\Forvis Mazars\\azure\\backend-forvis\\src\\MetaDataService\\MetaDataService.API",
+    "runnable": true,
+    "port": "5080"
+  },
+  {
+    "name": "IdentityService",
+    "path": "C:\\Users\\PakinPaulRaj\\Desktop\\Forvis Mazars\\azure\\backend-forvis\\src\\IdentityService\\IdentityService.API",
+    "runnable": true,
+    "port": "5171"
+  },
+  {
+    "name": "ClientService",
+    "path": "C:\\Users\\PakinPaulRaj\\Desktop\\Forvis Mazars\\azure\\backend-forvis\\src\\ClientService\\ClientService.API",
+    "runnable": true,
+    "port": "5259"
+  },
+  {
+    "name": "BFFService",
+    "path": "C:\\Users\\PakinPaulRaj\\Desktop\\Forvis Mazars\\azure\\backend-forvis\\src\\BFFService\\BFFService.API",
+    "runnable": true,
+    "port": "5258"
+  },
+  {
+    "name": "APIGateway",
+    "path": "C:\\Users\\PakinPaulRaj\\Desktop\\Forvis Mazars\\azure\\backend-forvis\\src\\APIGateway\\ForvisMazars.APIGateway",
+    "runnable": true,
+    "port": "5006"
+  },
+  {
+    "name": "Angular Frontend",
+    "path": "C:\\Users\\PakinPaulRaj\\Desktop\\Forvis Mazars\\azure\\frontend-forvis",
+    "runnable": true,
+    "port": "4200"
+  },
+  {
+    "name": "Backend Root Build Only",
+    "path": "C:\\Users\\PakinPaulRaj\\Desktop\\Forvis Mazars\\azure\\backend-forvis",
+    "runnable": false,
+    "port": ""
+  }
+]
